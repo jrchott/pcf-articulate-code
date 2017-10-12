@@ -3,7 +3,7 @@
 set -e -x
 
 if [ "$#" -ne 1 ]; then
-    echo "Please provide location to place build output."
+    echo "Please provide location to place build output. CHANGE"
     exit 1;
 fi
 
